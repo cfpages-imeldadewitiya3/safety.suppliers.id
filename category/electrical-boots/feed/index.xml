@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Electrical Boots &#8211; Supplier Safety</title>
-	<atom:link href="/category/electrical-boots/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/electrical-boots/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Fri, 19 Feb 2021 00:04:37 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Electrical Boots Subang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-subang.html</link>
+		<link>/electrical-boots-subang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 19 Feb 2021 00:04:37 +0000</pubDate>
@@ -72,7 +72,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Pulo Gadung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-pulo-gadung.html</link>
+		<link>/electrical-boots-pulo-gadung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 05 Feb 2021 16:16:15 +0000</pubDate>
@@ -115,7 +115,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-kelapa-gading.html</link>
+		<link>/electrical-boots-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Jan 2021 02:26:22 +0000</pubDate>
@@ -158,7 +158,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-ciputat.html</link>
+		<link>/electrical-boots-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 06 Jan 2021 00:01:17 +0000</pubDate>
@@ -201,7 +201,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Cileungsi #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-cileungsi.html</link>
+		<link>/electrical-boots-cileungsi/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Dec 2020 02:25:24 +0000</pubDate>
@@ -244,7 +244,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Cikande #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-cikande.html</link>
+		<link>/electrical-boots-cikande/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 14 Dec 2020 20:35:16 +0000</pubDate>
@@ -287,7 +287,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-serpong.html</link>
+		<link>/electrical-boots-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Dec 2020 22:51:37 +0000</pubDate>
@@ -330,7 +330,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Sumedang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-sumedang.html</link>
+		<link>/electrical-boots-sumedang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2020 02:11:01 +0000</pubDate>
@@ -373,7 +373,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Cinere #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-cinere.html</link>
+		<link>/electrical-boots-cinere/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 21 Nov 2020 20:15:22 +0000</pubDate>
@@ -416,7 +416,7 @@
 			</item>
 		<item>
 		<title>Electrical Boots Bandung Barat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/electrical-boots-bandung-barat.html</link>
+		<link>/electrical-boots-bandung-barat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 01 Nov 2020 01:05:19 +0000</pubDate>

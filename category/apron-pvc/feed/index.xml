@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Apron PVC &#8211; Supplier Safety</title>
-	<atom:link href="/category/apron-pvc/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/apron-pvc/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Mon, 11 Jan 2021 18:22:26 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Apron PVC Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-bintaro.html</link>
+		<link>/apron-pvc-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 11 Jan 2021 18:22:26 +0000</pubDate>
@@ -68,7 +68,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Bsd #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-bsd.html</link>
+		<link>/apron-pvc-bsd/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 02 Jan 2021 01:15:21 +0000</pubDate>
@@ -107,7 +107,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-serpong.html</link>
+		<link>/apron-pvc-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2020 17:23:34 +0000</pubDate>
@@ -146,7 +146,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-cikarang.html</link>
+		<link>/apron-pvc-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 25 Nov 2020 08:46:58 +0000</pubDate>
@@ -185,7 +185,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-ciputat.html</link>
+		<link>/apron-pvc-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Oct 2020 18:28:09 +0000</pubDate>
@@ -224,7 +224,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Cikande #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-cikande.html</link>
+		<link>/apron-pvc-cikande/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 01 Oct 2020 23:39:24 +0000</pubDate>
@@ -263,7 +263,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-cikupa.html</link>
+		<link>/apron-pvc-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 23 Sep 2020 14:43:47 +0000</pubDate>
@@ -302,7 +302,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Sumedang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-sumedang.html</link>
+		<link>/apron-pvc-sumedang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 20 Sep 2020 03:54:23 +0000</pubDate>
@@ -341,7 +341,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-purwakarta.html</link>
+		<link>/apron-pvc-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Sep 2020 15:32:10 +0000</pubDate>
@@ -380,7 +380,7 @@
 			</item>
 		<item>
 		<title>Apron PVC Balaraja #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/apron-pvc-balaraja.html</link>
+		<link>/apron-pvc-balaraja/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 26 Aug 2020 09:39:00 +0000</pubDate>

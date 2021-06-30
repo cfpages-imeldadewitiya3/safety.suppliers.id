@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ring Buoy &#8211; Supplier Safety</title>
-	<atom:link href="/category/ring-buoy/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/ring-buoy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Sun, 04 Apr 2021 20:45:13 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Ring Buoy Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-serpong.html</link>
+		<link>/ring-buoy-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 04 Apr 2021 20:45:13 +0000</pubDate>
@@ -64,7 +64,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Cianjur #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-cianjur.html</link>
+		<link>/ring-buoy-cianjur/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 19:26:00 +0000</pubDate>
@@ -99,7 +99,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-bintaro.html</link>
+		<link>/ring-buoy-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Mar 2021 08:09:49 +0000</pubDate>
@@ -134,7 +134,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Sentul #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-sentul.html</link>
+		<link>/ring-buoy-sentul/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 20 Mar 2021 19:17:54 +0000</pubDate>
@@ -169,7 +169,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-karawaci.html</link>
+		<link>/ring-buoy-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 19 Mar 2021 19:03:17 +0000</pubDate>
@@ -204,7 +204,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Cikampek #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-cikampek.html</link>
+		<link>/ring-buoy-cikampek/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 19 Mar 2021 14:07:25 +0000</pubDate>
@@ -239,7 +239,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-ciputat.html</link>
+		<link>/ring-buoy-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 13 Mar 2021 04:53:50 +0000</pubDate>
@@ -274,7 +274,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Indramayu #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-indramayu.html</link>
+		<link>/ring-buoy-indramayu/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Mar 2021 13:27:34 +0000</pubDate>
@@ -309,7 +309,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-karawang.html</link>
+		<link>/ring-buoy-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Mar 2021 01:27:02 +0000</pubDate>
@@ -344,7 +344,7 @@
 			</item>
 		<item>
 		<title>Ring Buoy Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/ring-buoy-cikupa.html</link>
+		<link>/ring-buoy-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Feb 2021 03:23:53 +0000</pubDate>

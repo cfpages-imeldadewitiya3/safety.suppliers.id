@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Lanyard &#8211; Supplier Safety</title>
-	<atom:link href="/category/lanyard/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/lanyard/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Tue, 13 Apr 2021 20:41:16 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Lanyard Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-serpong.html</link>
+		<link>/lanyard-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 13 Apr 2021 20:41:16 +0000</pubDate>
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Lanyard Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-purwakarta.html</link>
+		<link>/lanyard-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 08 Apr 2021 07:05:40 +0000</pubDate>
@@ -131,7 +131,7 @@
 			</item>
 		<item>
 		<title>Lanyard Indramayu #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-indramayu.html</link>
+		<link>/lanyard-indramayu/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 05 Apr 2021 03:08:17 +0000</pubDate>
@@ -182,7 +182,7 @@
 			</item>
 		<item>
 		<title>Lanyard Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-karawaci.html</link>
+		<link>/lanyard-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 04 Apr 2021 08:34:33 +0000</pubDate>
@@ -233,7 +233,7 @@
 			</item>
 		<item>
 		<title>Lanyard Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-cikupa.html</link>
+		<link>/lanyard-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 19 Mar 2021 23:33:49 +0000</pubDate>
@@ -284,7 +284,7 @@
 			</item>
 		<item>
 		<title>Lanyard Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-kuningan.html</link>
+		<link>/lanyard-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 19 Feb 2021 06:35:50 +0000</pubDate>
@@ -335,7 +335,7 @@
 			</item>
 		<item>
 		<title>Lanyard Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-kelapa-gading.html</link>
+		<link>/lanyard-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Feb 2021 03:30:47 +0000</pubDate>
@@ -386,7 +386,7 @@
 			</item>
 		<item>
 		<title>Lanyard Cikampek #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-cikampek.html</link>
+		<link>/lanyard-cikampek/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 05 Feb 2021 13:22:31 +0000</pubDate>
@@ -437,7 +437,7 @@
 			</item>
 		<item>
 		<title>Lanyard Sentul #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-sentul.html</link>
+		<link>/lanyard-sentul/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Feb 2021 04:12:27 +0000</pubDate>
@@ -488,7 +488,7 @@
 			</item>
 		<item>
 		<title>Lanyard Subang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/lanyard-subang.html</link>
+		<link>/lanyard-subang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 01 Feb 2021 01:25:31 +0000</pubDate>

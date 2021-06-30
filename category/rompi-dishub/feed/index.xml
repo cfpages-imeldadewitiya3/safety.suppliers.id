@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Rompi Dishub &#8211; Supplier Safety</title>
-	<atom:link href="/category/rompi-dishub/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/rompi-dishub/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Fri, 08 Jan 2021 05:48:49 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Rompi Dishub Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-kuningan.html</link>
+		<link>/rompi-dishub-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 08 Jan 2021 05:48:49 +0000</pubDate>
@@ -72,7 +72,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Sentul #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-sentul.html</link>
+		<link>/rompi-dishub-sentul/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 07 Jan 2021 20:23:18 +0000</pubDate>
@@ -115,7 +115,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-purwakarta.html</link>
+		<link>/rompi-dishub-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 04 Jan 2021 17:39:15 +0000</pubDate>
@@ -158,7 +158,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Cinere #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-cinere.html</link>
+		<link>/rompi-dishub-cinere/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 03 Jan 2021 16:36:12 +0000</pubDate>
@@ -201,7 +201,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-cikarang.html</link>
+		<link>/rompi-dishub-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 02 Jan 2021 23:41:40 +0000</pubDate>
@@ -244,7 +244,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Sumedang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-sumedang.html</link>
+		<link>/rompi-dishub-sumedang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 02 Jan 2021 05:45:11 +0000</pubDate>
@@ -287,7 +287,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-ciputat.html</link>
+		<link>/rompi-dishub-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 31 Dec 2020 04:20:46 +0000</pubDate>
@@ -330,7 +330,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Cikande #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-cikande.html</link>
+		<link>/rompi-dishub-cikande/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 30 Dec 2020 06:49:02 +0000</pubDate>
@@ -373,7 +373,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-cikupa.html</link>
+		<link>/rompi-dishub-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 29 Dec 2020 15:20:30 +0000</pubDate>
@@ -416,7 +416,7 @@
 			</item>
 		<item>
 		<title>Rompi Dishub Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-dishub-serpong.html</link>
+		<link>/rompi-dishub-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 25 Dec 2020 19:37:03 +0000</pubDate>

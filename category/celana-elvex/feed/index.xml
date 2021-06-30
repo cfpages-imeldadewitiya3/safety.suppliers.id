@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Celana Elvex &#8211; Supplier Safety</title>
-	<atom:link href="/category/celana-elvex/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/celana-elvex/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Sat, 27 Feb 2021 09:29:21 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Celana Elvex Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-kelapa-gading.html</link>
+		<link>/celana-elvex-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Feb 2021 09:29:21 +0000</pubDate>
@@ -75,7 +75,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-cikupa.html</link>
+		<link>/celana-elvex-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Feb 2021 09:28:17 +0000</pubDate>
@@ -121,7 +121,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Sentul #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-sentul.html</link>
+		<link>/celana-elvex-sentul/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 15 Feb 2021 22:25:23 +0000</pubDate>
@@ -167,7 +167,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Bsd #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-bsd.html</link>
+		<link>/celana-elvex-bsd/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 13 Feb 2021 00:09:20 +0000</pubDate>
@@ -213,7 +213,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Cinere #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-cinere.html</link>
+		<link>/celana-elvex-cinere/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 08 Feb 2021 20:21:40 +0000</pubDate>
@@ -259,7 +259,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-kuningan.html</link>
+		<link>/celana-elvex-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 17:40:43 +0000</pubDate>
@@ -305,7 +305,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Cileungsi #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-cileungsi.html</link>
+		<link>/celana-elvex-cileungsi/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 22 Jan 2021 00:30:34 +0000</pubDate>
@@ -351,7 +351,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-cikarang.html</link>
+		<link>/celana-elvex-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 15 Jan 2021 12:30:23 +0000</pubDate>
@@ -397,7 +397,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-karawang.html</link>
+		<link>/celana-elvex-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 10 Jan 2021 20:03:23 +0000</pubDate>
@@ -443,7 +443,7 @@
 			</item>
 		<item>
 		<title>Celana Elvex Cianjur #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/celana-elvex-cianjur.html</link>
+		<link>/celana-elvex-cianjur/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 06 Jan 2021 04:56:33 +0000</pubDate>

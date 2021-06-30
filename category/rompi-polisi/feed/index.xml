@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Rompi Polisi &#8211; Supplier Safety</title>
-	<atom:link href="/category/rompi-polisi/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/rompi-polisi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Wed, 17 Feb 2021 23:18:04 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Rompi Polisi Cikande #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-cikande.html</link>
+		<link>/rompi-polisi-cikande/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 17 Feb 2021 23:18:04 +0000</pubDate>
@@ -72,7 +72,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Padalarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-padalarang.html</link>
+		<link>/rompi-polisi-padalarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 10 Feb 2021 12:35:28 +0000</pubDate>
@@ -115,7 +115,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Garut #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-garut.html</link>
+		<link>/rompi-polisi-garut/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 10 Feb 2021 00:15:04 +0000</pubDate>
@@ -158,7 +158,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-serpong.html</link>
+		<link>/rompi-polisi-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 09 Feb 2021 12:56:48 +0000</pubDate>
@@ -201,7 +201,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-cikarang.html</link>
+		<link>/rompi-polisi-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 08 Feb 2021 21:56:11 +0000</pubDate>
@@ -244,7 +244,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-karawaci.html</link>
+		<link>/rompi-polisi-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 08 Feb 2021 09:27:31 +0000</pubDate>
@@ -287,7 +287,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-karawang.html</link>
+		<link>/rompi-polisi-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 06 Feb 2021 15:47:35 +0000</pubDate>
@@ -330,7 +330,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-ciputat.html</link>
+		<link>/rompi-polisi-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 05 Feb 2021 07:08:50 +0000</pubDate>
@@ -373,7 +373,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Bandung Barat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-bandung-barat.html</link>
+		<link>/rompi-polisi-bandung-barat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 16:43:16 +0000</pubDate>
@@ -416,7 +416,7 @@
 			</item>
 		<item>
 		<title>Rompi Polisi Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-polisi-kuningan.html</link>
+		<link>/rompi-polisi-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Feb 2021 08:42:44 +0000</pubDate>

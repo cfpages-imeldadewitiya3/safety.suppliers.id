@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Baju Pelampung &#8211; Supplier Safety</title>
-	<atom:link href="/category/baju-pelampung/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/baju-pelampung/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Sat, 13 Mar 2021 11:48:16 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Baju Pelampung Majalengka #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-majalengka.html</link>
+		<link>/baju-pelampung-majalengka/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 13 Mar 2021 11:48:16 +0000</pubDate>
@@ -81,7 +81,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-karawang.html</link>
+		<link>/baju-pelampung-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 Feb 2021 18:33:51 +0000</pubDate>
@@ -133,7 +133,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-purwakarta.html</link>
+		<link>/baju-pelampung-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 25 Feb 2021 02:16:29 +0000</pubDate>
@@ -185,7 +185,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-serpong.html</link>
+		<link>/baju-pelampung-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Feb 2021 04:17:27 +0000</pubDate>
@@ -237,7 +237,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Sentul #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-sentul.html</link>
+		<link>/baju-pelampung-sentul/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 08 Feb 2021 21:02:35 +0000</pubDate>
@@ -289,7 +289,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-bintaro.html</link>
+		<link>/baju-pelampung-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 05 Feb 2021 20:12:21 +0000</pubDate>
@@ -341,7 +341,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Cakung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-cakung.html</link>
+		<link>/baju-pelampung-cakung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 20 Jan 2021 04:22:48 +0000</pubDate>
@@ -393,7 +393,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Cibinong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-cibinong.html</link>
+		<link>/baju-pelampung-cibinong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 08 Jan 2021 21:12:38 +0000</pubDate>
@@ -445,7 +445,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-kelapa-gading.html</link>
+		<link>/baju-pelampung-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 08 Jan 2021 09:34:10 +0000</pubDate>
@@ -497,7 +497,7 @@
 			</item>
 		<item>
 		<title>Baju Pelampung Cikande #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/baju-pelampung-cikande.html</link>
+		<link>/baju-pelampung-cikande/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 05 Jan 2021 18:58:04 +0000</pubDate>

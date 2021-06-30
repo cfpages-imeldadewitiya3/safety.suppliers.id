@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Google Welding &#8211; Supplier Safety</title>
-	<atom:link href="/category/google-welding/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/google-welding/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Sun, 21 Mar 2021 20:46:59 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Google Welding Pulo Gadung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-pulo-gadung.html</link>
+		<link>/google-welding-pulo-gadung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 21 Mar 2021 20:46:59 +0000</pubDate>
@@ -68,7 +68,7 @@
 			</item>
 		<item>
 		<title>Google Welding Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-kelapa-gading.html</link>
+		<link>/google-welding-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 15:10:22 +0000</pubDate>
@@ -107,7 +107,7 @@
 			</item>
 		<item>
 		<title>Google Welding Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-serpong.html</link>
+		<link>/google-welding-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 09 Mar 2021 13:34:11 +0000</pubDate>
@@ -146,7 +146,7 @@
 			</item>
 		<item>
 		<title>Google Welding Gading Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-gading-serpong.html</link>
+		<link>/google-welding-gading-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Mar 2021 20:52:08 +0000</pubDate>
@@ -185,7 +185,7 @@
 			</item>
 		<item>
 		<title>Google Welding Cikande #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-cikande.html</link>
+		<link>/google-welding-cikande/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 21 Feb 2021 09:44:07 +0000</pubDate>
@@ -224,7 +224,7 @@
 			</item>
 		<item>
 		<title>Google Welding Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-karawaci.html</link>
+		<link>/google-welding-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 12 Feb 2021 05:59:37 +0000</pubDate>
@@ -263,7 +263,7 @@
 			</item>
 		<item>
 		<title>Google Welding Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-ciputat.html</link>
+		<link>/google-welding-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 07 Feb 2021 12:23:25 +0000</pubDate>
@@ -302,7 +302,7 @@
 			</item>
 		<item>
 		<title>Google Welding Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-purwakarta.html</link>
+		<link>/google-welding-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 19 Jan 2021 03:23:37 +0000</pubDate>
@@ -341,7 +341,7 @@
 			</item>
 		<item>
 		<title>Google Welding Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-cikupa.html</link>
+		<link>/google-welding-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 14 Jan 2021 22:56:29 +0000</pubDate>
@@ -380,7 +380,7 @@
 			</item>
 		<item>
 		<title>Google Welding Cakung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/google-welding-cakung.html</link>
+		<link>/google-welding-cakung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 06 Jan 2021 12:49:47 +0000</pubDate>

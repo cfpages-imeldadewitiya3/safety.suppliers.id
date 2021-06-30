@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sandblasting Hood &#8211; Supplier Safety</title>
-	<atom:link href="/category/sandblasting-hood/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/sandblasting-hood/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Sat, 06 Mar 2021 07:08:40 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Sandblasting Hood Majalengka #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-majalengka.html</link>
+		<link>/sandblasting-hood-majalengka/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 06 Mar 2021 07:08:40 +0000</pubDate>
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Balaraja #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-balaraja.html</link>
+		<link>/sandblasting-hood-balaraja/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 04 Mar 2021 04:06:26 +0000</pubDate>
@@ -131,7 +131,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Garut #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-garut.html</link>
+		<link>/sandblasting-hood-garut/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 09 Feb 2021 01:54:29 +0000</pubDate>
@@ -182,7 +182,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-kuningan.html</link>
+		<link>/sandblasting-hood-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 31 Jan 2021 06:47:13 +0000</pubDate>
@@ -233,7 +233,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Bsd #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-bsd.html</link>
+		<link>/sandblasting-hood-bsd/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 24 Dec 2020 06:53:53 +0000</pubDate>
@@ -284,7 +284,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Cakung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-cakung.html</link>
+		<link>/sandblasting-hood-cakung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 22 Dec 2020 05:23:30 +0000</pubDate>
@@ -335,7 +335,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Cinere #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-cinere.html</link>
+		<link>/sandblasting-hood-cinere/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 04 Dec 2020 22:13:28 +0000</pubDate>
@@ -386,7 +386,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Pulo Gadung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-pulo-gadung.html</link>
+		<link>/sandblasting-hood-pulo-gadung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 02 Nov 2020 13:24:10 +0000</pubDate>
@@ -437,7 +437,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Padalarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-padalarang.html</link>
+		<link>/sandblasting-hood-padalarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 18 Oct 2020 18:45:06 +0000</pubDate>
@@ -488,7 +488,7 @@
 			</item>
 		<item>
 		<title>Sandblasting Hood Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sandblasting-hood-serpong.html</link>
+		<link>/sandblasting-hood-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 28 Sep 2020 23:31:53 +0000</pubDate>

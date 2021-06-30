@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Cotton Gloves &#8211; Supplier Safety</title>
-	<atom:link href="/category/cotton-gloves/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/cotton-gloves/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Thu, 29 Apr 2021 03:59:41 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Cotton Gloves Cakung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-cakung.html</link>
+		<link>/cotton-gloves-cakung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 03:59:41 +0000</pubDate>
@@ -74,7 +74,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Cisarua #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-cisarua.html</link>
+		<link>/cotton-gloves-cisarua/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 25 Apr 2021 19:07:43 +0000</pubDate>
@@ -119,7 +119,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Sumedang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-sumedang.html</link>
+		<link>/cotton-gloves-sumedang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 18 Apr 2021 01:39:12 +0000</pubDate>
@@ -164,7 +164,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Cikampek #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-cikampek.html</link>
+		<link>/cotton-gloves-cikampek/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 17 Apr 2021 07:58:53 +0000</pubDate>
@@ -209,7 +209,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-karawaci.html</link>
+		<link>/cotton-gloves-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Mar 2021 00:05:34 +0000</pubDate>
@@ -254,7 +254,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-purwakarta.html</link>
+		<link>/cotton-gloves-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 21 Mar 2021 01:56:26 +0000</pubDate>
@@ -299,7 +299,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Cileungsi #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-cileungsi.html</link>
+		<link>/cotton-gloves-cileungsi/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 11 Mar 2021 09:07:31 +0000</pubDate>
@@ -344,7 +344,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-karawang.html</link>
+		<link>/cotton-gloves-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 09 Mar 2021 19:25:52 +0000</pubDate>
@@ -389,7 +389,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-bintaro.html</link>
+		<link>/cotton-gloves-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 17 Feb 2021 19:34:31 +0000</pubDate>
@@ -434,7 +434,7 @@
 			</item>
 		<item>
 		<title>Cotton Gloves Gading Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/cotton-gloves-gading-serpong.html</link>
+		<link>/cotton-gloves-gading-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 15 Feb 2021 14:07:41 +0000</pubDate>

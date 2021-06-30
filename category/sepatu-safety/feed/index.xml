@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sepatu Safety &#8211; Supplier Safety</title>
-	<atom:link href="/category/sepatu-safety/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/sepatu-safety/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Thu, 03 Jun 2021 00:03:02 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Sepatu Safety Balaraja #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-balaraja.html</link>
+		<link>/sepatu-safety-balaraja/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 03 Jun 2021 00:03:02 +0000</pubDate>
@@ -70,7 +70,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-cikarang.html</link>
+		<link>/sepatu-safety-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 31 May 2021 23:26:53 +0000</pubDate>
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Bandung Barat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-bandung-barat.html</link>
+		<link>/sepatu-safety-bandung-barat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 23 May 2021 03:46:58 +0000</pubDate>
@@ -152,7 +152,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-karawaci.html</link>
+		<link>/sepatu-safety-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 15 May 2021 13:01:52 +0000</pubDate>
@@ -193,7 +193,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Padalarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-padalarang.html</link>
+		<link>/sepatu-safety-padalarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 27 Apr 2021 12:06:28 +0000</pubDate>
@@ -234,7 +234,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-ciputat.html</link>
+		<link>/sepatu-safety-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Mar 2021 07:34:42 +0000</pubDate>
@@ -275,7 +275,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Gading Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-gading-serpong.html</link>
+		<link>/sepatu-safety-gading-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 21 Mar 2021 03:04:43 +0000</pubDate>
@@ -316,7 +316,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-bintaro.html</link>
+		<link>/sepatu-safety-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 18 Mar 2021 07:21:31 +0000</pubDate>
@@ -357,7 +357,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Cianjur #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-cianjur.html</link>
+		<link>/sepatu-safety-cianjur/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 06 Mar 2021 06:46:07 +0000</pubDate>
@@ -398,7 +398,7 @@
 			</item>
 		<item>
 		<title>Sepatu Safety Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/sepatu-safety-purwakarta.html</link>
+		<link>/sepatu-safety-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 24 Feb 2021 09:36:19 +0000</pubDate>

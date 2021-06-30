@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Earmuff &#8211; Supplier Safety</title>
-	<atom:link href="/category/earmuff/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/earmuff/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Fri, 29 Jan 2021 08:13:03 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Earmuff Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-kuningan.html</link>
+		<link>/earmuff-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 29 Jan 2021 08:13:03 +0000</pubDate>
@@ -67,7 +67,7 @@ Antar pekerja sulit berkomunikasi dikarenakan dari kebisingan yang menyebabkan m
 			</item>
 		<item>
 		<title>Earmuff Cileungsi #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-cileungsi.html</link>
+		<link>/earmuff-cileungsi/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 27 Jan 2021 03:57:28 +0000</pubDate>
@@ -105,7 +105,7 @@ Efek buruk dan bahaya besar mengintai resiko kecelakaan bisa disebabkan dari keb
 			</item>
 		<item>
 		<title>Earmuff Cikampek #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-cikampek.html</link>
+		<link>/earmuff-cikampek/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 26 Jan 2021 16:20:00 +0000</pubDate>
@@ -143,7 +143,7 @@ Salah satu contoh kondisi yang beresiko kecelakaan kerja lebih tinggi adalah keb
 			</item>
 		<item>
 		<title>Earmuff Pulo Gadung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-pulo-gadung.html</link>
+		<link>/earmuff-pulo-gadung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 23 Jan 2021 04:19:52 +0000</pubDate>
@@ -181,7 +181,7 @@ Antar pekerja sulit berkomunikasi dikarenakan dari kebisingan yang menyebabkan m
 			</item>
 		<item>
 		<title>Earmuff Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-purwakarta.html</link>
+		<link>/earmuff-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 21 Jan 2021 03:42:25 +0000</pubDate>
@@ -219,7 +219,7 @@ Salah satu contoh kondisi yang beresiko kecelakaan kerja lebih tinggi adalah keb
 			</item>
 		<item>
 		<title>Earmuff Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-serpong.html</link>
+		<link>/earmuff-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 16 Jan 2021 12:09:48 +0000</pubDate>
@@ -257,7 +257,7 @@ Salah satu contoh kondisi yang beresiko kecelakaan kerja lebih tinggi adalah keb
 			</item>
 		<item>
 		<title>Earmuff Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-karawang.html</link>
+		<link>/earmuff-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 13 Jan 2021 03:55:10 +0000</pubDate>
@@ -295,7 +295,7 @@ Antar pekerja sulit berkomunikasi dikarenakan dari kebisingan yang menyebabkan m
 			</item>
 		<item>
 		<title>Earmuff Gading Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-gading-serpong.html</link>
+		<link>/earmuff-gading-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 10 Jan 2021 17:11:28 +0000</pubDate>
@@ -333,7 +333,7 @@ Kebisingan sangat berbahaya bahkan dapat menimbulkan resiko kecelakaan yang sang
 			</item>
 		<item>
 		<title>Earmuff Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-kelapa-gading.html</link>
+		<link>/earmuff-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 09 Jan 2021 06:23:10 +0000</pubDate>
@@ -371,7 +371,7 @@ Kebisingan sangat berbahaya bahkan dapat menimbulkan resiko kecelakaan yang sang
 			</item>
 		<item>
 		<title>Earmuff Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/earmuff-bintaro.html</link>
+		<link>/earmuff-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 07 Jan 2021 02:46:16 +0000</pubDate>

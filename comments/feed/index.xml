@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Supplier Safety	</title>
-	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
-	<lastBuildDate>Tue, 29 Jun 2021 09:29:09 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 29 Jun 2021 11:34:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

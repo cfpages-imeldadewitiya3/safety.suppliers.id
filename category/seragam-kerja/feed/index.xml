@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Seragam Kerja &#8211; Supplier Safety</title>
-	<atom:link href="/category/seragam-kerja/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/seragam-kerja/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Tue, 26 Jan 2021 03:59:39 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Seragam Kerja Padalarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-padalarang.html</link>
+		<link>/seragam-kerja-padalarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 26 Jan 2021 03:59:39 +0000</pubDate>
@@ -65,7 +65,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Bandung Barat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-bandung-barat.html</link>
+		<link>/seragam-kerja-bandung-barat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 12 Jan 2021 17:00:21 +0000</pubDate>
@@ -101,7 +101,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Karawaci #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-karawaci.html</link>
+		<link>/seragam-kerja-karawaci/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 06 Jan 2021 08:25:55 +0000</pubDate>
@@ -137,7 +137,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Cianjur #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-cianjur.html</link>
+		<link>/seragam-kerja-cianjur/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 05 Jan 2021 18:24:48 +0000</pubDate>
@@ -173,7 +173,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Cikampek #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-cikampek.html</link>
+		<link>/seragam-kerja-cikampek/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 28 Dec 2020 14:54:56 +0000</pubDate>
@@ -209,7 +209,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-kuningan.html</link>
+		<link>/seragam-kerja-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 19 Dec 2020 10:17:57 +0000</pubDate>
@@ -245,7 +245,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Pulo Gadung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-pulo-gadung.html</link>
+		<link>/seragam-kerja-pulo-gadung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 11 Dec 2020 10:24:03 +0000</pubDate>
@@ -281,7 +281,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Cinere #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-cinere.html</link>
+		<link>/seragam-kerja-cinere/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 02 Nov 2020 09:50:08 +0000</pubDate>
@@ -317,7 +317,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Sumedang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-sumedang.html</link>
+		<link>/seragam-kerja-sumedang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 27 Oct 2020 00:02:49 +0000</pubDate>
@@ -353,7 +353,7 @@
 			</item>
 		<item>
 		<title>Seragam Kerja Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/seragam-kerja-serpong.html</link>
+		<link>/seragam-kerja-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 26 Oct 2020 15:35:28 +0000</pubDate>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Back Support &#8211; Supplier Safety</title>
-	<atom:link href="/category/back-support/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/back-support/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Sat, 27 Feb 2021 12:56:17 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Back Support Cibinong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-cibinong.html</link>
+		<link>/back-support-cibinong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 27 Feb 2021 12:56:17 +0000</pubDate>
@@ -80,7 +80,7 @@
 			</item>
 		<item>
 		<title>Back Support Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-cikarang.html</link>
+		<link>/back-support-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 30 Jan 2021 01:31:49 +0000</pubDate>
@@ -131,7 +131,7 @@
 			</item>
 		<item>
 		<title>Back Support Balaraja #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-balaraja.html</link>
+		<link>/back-support-balaraja/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 26 Jan 2021 15:31:53 +0000</pubDate>
@@ -182,7 +182,7 @@
 			</item>
 		<item>
 		<title>Back Support Kelapa Gading #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-kelapa-gading.html</link>
+		<link>/back-support-kelapa-gading/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 17 Jan 2021 09:48:09 +0000</pubDate>
@@ -233,7 +233,7 @@
 			</item>
 		<item>
 		<title>Back Support Pulo Gadung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-pulo-gadung.html</link>
+		<link>/back-support-pulo-gadung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 01 Jan 2021 20:08:06 +0000</pubDate>
@@ -284,7 +284,7 @@
 			</item>
 		<item>
 		<title>Back Support Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-karawang.html</link>
+		<link>/back-support-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 23 Dec 2020 04:31:43 +0000</pubDate>
@@ -335,7 +335,7 @@
 			</item>
 		<item>
 		<title>Back Support Cileungsi #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-cileungsi.html</link>
+		<link>/back-support-cileungsi/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 15 Dec 2020 12:30:15 +0000</pubDate>
@@ -386,7 +386,7 @@
 			</item>
 		<item>
 		<title>Back Support Cinere #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-cinere.html</link>
+		<link>/back-support-cinere/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 09 Dec 2020 08:51:46 +0000</pubDate>
@@ -437,7 +437,7 @@
 			</item>
 		<item>
 		<title>Back Support Sumedang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-sumedang.html</link>
+		<link>/back-support-sumedang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 08 Dec 2020 13:22:05 +0000</pubDate>
@@ -488,7 +488,7 @@
 			</item>
 		<item>
 		<title>Back Support Garut #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/back-support-garut.html</link>
+		<link>/back-support-garut/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 03 Dec 2020 05:51:41 +0000</pubDate>

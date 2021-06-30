@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Helm Proyek &#8211; Supplier Safety</title>
-	<atom:link href="/category/helm-proyek/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/helm-proyek/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Thu, 29 Apr 2021 02:07:22 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Helm Proyek Kuningan #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-kuningan.html</link>
+		<link>/helm-proyek-kuningan/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 29 Apr 2021 02:07:22 +0000</pubDate>
@@ -77,7 +77,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Majalengka #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-majalengka.html</link>
+		<link>/helm-proyek-majalengka/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 27 Apr 2021 12:46:54 +0000</pubDate>
@@ -125,7 +125,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-serpong.html</link>
+		<link>/helm-proyek-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 23 Apr 2021 22:11:36 +0000</pubDate>
@@ -173,7 +173,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Cakung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-cakung.html</link>
+		<link>/helm-proyek-cakung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 29 Mar 2021 22:32:28 +0000</pubDate>
@@ -221,7 +221,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Sentul #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-sentul.html</link>
+		<link>/helm-proyek-sentul/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Mon, 22 Mar 2021 10:44:49 +0000</pubDate>
@@ -269,7 +269,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Gading Serpong #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-gading-serpong.html</link>
+		<link>/helm-proyek-gading-serpong/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 16 Mar 2021 09:03:40 +0000</pubDate>
@@ -317,7 +317,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Bintaro #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-bintaro.html</link>
+		<link>/helm-proyek-bintaro/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 11 Mar 2021 09:21:10 +0000</pubDate>
@@ -365,7 +365,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Bsd #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-bsd.html</link>
+		<link>/helm-proyek-bsd/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 11 Mar 2021 07:02:29 +0000</pubDate>
@@ -413,7 +413,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-ciputat.html</link>
+		<link>/helm-proyek-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 20 Feb 2021 21:49:28 +0000</pubDate>
@@ -461,7 +461,7 @@
 			</item>
 		<item>
 		<title>Helm Proyek Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/helm-proyek-cikarang.html</link>
+		<link>/helm-proyek-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 13 Feb 2021 04:49:48 +0000</pubDate>

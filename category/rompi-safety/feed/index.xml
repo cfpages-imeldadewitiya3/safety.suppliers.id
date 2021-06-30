@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Rompi Safety &#8211; Supplier Safety</title>
-	<atom:link href="/category/rompi-safety/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/category/rompi-safety/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Penyedia Produk Keselamatan</description>
 	<lastBuildDate>Tue, 01 Dec 2020 06:56:16 +0000</lastBuildDate>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Rompi Safety Cakung #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-cakung.html</link>
+		<link>/rompi-safety-cakung/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 01 Dec 2020 06:56:16 +0000</pubDate>
@@ -73,7 +73,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Cikupa #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-cikupa.html</link>
+		<link>/rompi-safety-cikupa/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sat, 14 Nov 2020 17:42:11 +0000</pubDate>
@@ -117,7 +117,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Ciputat #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-ciputat.html</link>
+		<link>/rompi-safety-ciputat/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 06 Nov 2020 06:29:44 +0000</pubDate>
@@ -161,7 +161,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Majalengka #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-majalengka.html</link>
+		<link>/rompi-safety-majalengka/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 01 Nov 2020 03:49:58 +0000</pubDate>
@@ -205,7 +205,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Cikarang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-cikarang.html</link>
+		<link>/rompi-safety-cikarang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 30 Oct 2020 02:20:59 +0000</pubDate>
@@ -249,7 +249,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Cileungsi #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-cileungsi.html</link>
+		<link>/rompi-safety-cileungsi/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 22 Sep 2020 13:13:57 +0000</pubDate>
@@ -293,7 +293,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Indramayu #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-indramayu.html</link>
+		<link>/rompi-safety-indramayu/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 22 Sep 2020 00:23:41 +0000</pubDate>
@@ -337,7 +337,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Balaraja #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-balaraja.html</link>
+		<link>/rompi-safety-balaraja/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 15 Sep 2020 06:23:34 +0000</pubDate>
@@ -381,7 +381,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Purwakarta #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-purwakarta.html</link>
+		<link>/rompi-safety-purwakarta/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Sun, 13 Sep 2020 08:19:35 +0000</pubDate>
@@ -425,7 +425,7 @@
 			</item>
 		<item>
 		<title>Rompi Safety Karawang #1 Harga Supplier • 0823 3229 6177 (Hildan)</title>
-		<link>/rompi-safety-karawang.html</link>
+		<link>/rompi-safety-karawang/</link>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Thu, 03 Sep 2020 21:14:04 +0000</pubDate>
